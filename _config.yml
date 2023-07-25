@@ -71,4 +71,5 @@ defaults:
     values:
       layout: page # Set the default layout for pages
 
-theme: alembic-jekyll-theme
+#theme: alembic-jekyll-theme
+remote_theme:  alembic-jekyll-theme
