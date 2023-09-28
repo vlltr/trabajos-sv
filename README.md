@@ -11,6 +11,7 @@ Evita agregar páginas de ofertas específicas (ej. `job.it/career/fullstack_dev
 
  - [2IT Jobs](https://2itjobs.com/buscar/plazas/0/0/0/?keywords=&sort=desc&date=all&jorn=all&sal=300-5000)
  - [Applaudo](https://careers.smartrecruiters.com/ApplaudoStudios)
+ - [Bitworks](https://www.linkedin.com/company/bitworks-sv/)
  - [Blue Door Talent](https://www.bluedoortalent.com/portal)
  - [BSCI](https://www.linkedin.com/company/bsci---gt/jobs/)
  - [CityLab](https://www.linkedin.com/company/citylabsv/jobs/)
