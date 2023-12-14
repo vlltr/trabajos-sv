@@ -22,6 +22,7 @@ Evita agregar páginas de ofertas específicas (ej. `job.it/career/fullstack_dev
  - [Findex](https://www.linkedin.com/company/findexla/jobs/)
  - [IDigital Studios](https://idigitalstudios.com/es/career/)
  - [Jobbi](https://jobbi.me/search-projects/)
+ - [KodiJobs](https://jobs.kodigo.org/)
  - [Latin Top Jobs](https://www.latintopjobs.com/ofertas/resultados/?sector=Tecnolog%C3%ADa&pais_id=1&keyword=&buscar_trabajo=Buscar%20Empleo&lang=es)
  - [Mercandu](https://www.linkedin.com/company/mercandu/jobs/)
  - [n1co](https://www.linkedin.com/company/n1co/jobs/)
